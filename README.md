@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ashish R Chauhan</h1>
-<h3 align="center">🌟 Full Stack Developer | Java & React Enthusiast | Future Tech Leader</h3>
+<h3 align="center">🌟 Learning Full Stack Developement | Java & React Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashishchauhanvasai&label=Profile%20views&color=0e75b6&style=flat" alt="ashishchauhanvasai" />
@@ -9,12 +9,12 @@
 
 ### 🧑‍💻 About Me:
 
-- 🔭 Currently building an **E-learning platform**
-- 🌱 Learning `MERN Stack`, `TypeScript`, and `Next.js`
+- 🔭 Previously building an **E-learning platform**
+- 🌱 Learning `Java`, `Node JS`, and `Next.js`
 - 🧠 Focused on Full Stack Web Dev + System Design
 - 📫 Reach me at: **ashishchauhanvasai@gmail.com**
 - 🌐 Portfolio: [Coming Soon...]
-- 🧾 Resume: [Upload it as GitHub release or Drive link]
+- 🧾 Resume: I'll Update Soon
 
 ---
 
