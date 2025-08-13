@@ -1,28 +1,31 @@
-<h1 align="center">☕ Hey there, I'm Ashish R Chauhan</h1>
-<h3 align="center">🚀 Java Developer | Corporate Trainer | Full Stack Enthusiast</h3>
+<!-- Java-Themed Banner -->
+<p align="center">
+  <img src="banner-java.png" alt="Java Developer Banner" width="100%" />
+</p>
+
+<h1 align="center">Hey 👋, I'm Ashish R Chauhan</h1>
+<h3 align="center">☕ Java Developer | Full Stack Trainer | React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishchauhanvasai&label=Profile%20Views&color=orange&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashishchauhanvasai&label=Profile%20views&color=ED8B00&style=flat" alt="ashishchauhanvasai" />
 </p>
 
 ---
 
-## 👨‍🏫 About Me  
-- 💼 **Corporate Trainer** at TestYantra Software Solutions  
-- ☕ Passionate about `Java` & `Backend Development`  
-- 🌱 Learning `Node.js`, `Next.js`, and advanced **System Design**  
-- 🔭 Built a full **E-Learning Platform** from scratch  
-- 📫 **ashishchauhanvasai@gmail.com**  
-- 🌐 **Portfolio:** Coming Soon  
-- 🧾 **Resume:** Updating Soon  
+### 🧑‍💻 About Me:
+
+- 🔭 Previously building an **E-learning platform**
+- 🌱 Learning `Java`, `Node JS`, and `Next.js`
+- 🧠 Focused on Full Stack Web Dev + System Design
+- 📫 Reach me at: **ashishchauhanvasai@gmail.com**
+- 🌐 Portfolio: [Coming Soon...]
+- 🧾 Resume: I'll Update Soon
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+### 🛠️ Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -32,56 +35,41 @@
 
 ---
 
-## ☕ Java Developer GitHub Stats
+### 🔥 GitHub Stats (Java Themed)
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishchauhanvasai&show_icons=true&title_color=ED8B00&icon_color=ED8B00&text_color=ffffff&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ashishchauhanvasai&theme=highcontrast&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishchauhanvasai&show_icons=true&title_color=ED8B00&icon_color=ED8B00&text_color=ffffff&bg_color=2C2C2C&custom_title=Ashish%20Chauhan's%20Java%20Stats&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&title_color=ED8B00&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 📌 Featured Projects
 
-- ☕ **[Urban Company Clone](https://github.com/ashishchauhanvasai/Urban-Company-Clone)** – Service booking platform clone.  
-- 📊 **[Employee Details App (React)](https://github.com/ashishchauhanvasai/Employee-Details-Using-React)** – Employee management UI.  
-- 🛒 **[Product Card Using React + Bootstrap](https://github.com/ashishchauhanvasai/Product-Card-using-React-and-Bootstrap)** – Reusable e-commerce UI component.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Urban Company Clone](https://github.com/ashishchauhanvasai/Urban-Company-Clone) | Service booking platform clone | HTML, CSS, JS |
+| [E-Learning Platform](#) | Built from scratch as a trainer | React, Node, Java (backend) |
+| [Student Record System](https://github.com/ashishchauhanvasai/student-record-management-arraylist) | Java-based record management | Java (OOP, Collections) |
 
 ---
 
-## 🏅 Achievements
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+### 📱 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/ashishchauhanvasai"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ashishchauhanvasai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ashishchauhanvasai"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📱 Connect with Me
-
+### 🏅 Badges & Achievements
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishchauhanvasai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ashishchauhanvasai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ashishchauhanvasai">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github.githubassets.com/images/modules/profile/badge_yolo.png" alt="YOLO Badge" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge_pull_shark.png" alt="Pull Shark Badge" width="100" />
+  <img src="https://github.githubassets.com/images/modules/profile/badge_quickdraw.png" alt="Quickdraw Badge" width="100" />
 </p>
-
----
-
-## 🎯 Fun Fact
-> I believe **teaching is the best way to learn**, and I live by it while training the next generation of Java developers.
