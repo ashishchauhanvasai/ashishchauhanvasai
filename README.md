@@ -57,6 +57,16 @@
 
 ---
 
+## 🏅 Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw" />
+</p>
+
+---
+
 ## 📱 Connect with Me
 
 <p align="center">
