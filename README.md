@@ -43,6 +43,7 @@
   <img width="48%" src="https://streak-stats.demolab.com?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
 </p>
 
+
 <p align="center">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
 </p>
