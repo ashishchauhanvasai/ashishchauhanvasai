@@ -36,19 +36,16 @@
 
 ## 📊 Most Used Languages
 
-
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60"/>
-</p>
+  <!-- Java Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&langs_count=7&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
+  <!-- Top Languages -->
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&langs_count=7&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
 
   <!-- GitHub Streak -->
-  <img width="48%" src="https://streak-stats.demolab.com?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
 </p>
-
 
 ---
 
