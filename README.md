@@ -37,15 +37,16 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <!-- Java Logo -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java Logo" width="60" height="60" />
-
-  <!-- Top Languages -->
-  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&langs_count=7&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
-
-  <!-- GitHub Streak -->
-  <img width="45%" src="https://streak-stats.demolab.com?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
+  <!-- Java / Top Languages Card at the top -->
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&langs_count=8&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
 </p>
+
+<p align="center">
+  <!-- Stats and Streak Cards side by side -->
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishchauhanvasai&show_icons=true&theme=radical&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishchauhanvasai&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ED8B00&fire=ED8B00&currStreakLabel=ED8B00&background=2C2C2C&sideNums=ffffff&sideLabels=ffffff" />
+</p>
+
 
 ---
 
