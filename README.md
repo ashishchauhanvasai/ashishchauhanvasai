@@ -39,20 +39,10 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishchauhanvasai&show_icons=true&title_color=ED8B00&icon_color=ED8B00&text_color=ffffff&bg_color=2C2C2C&custom_title=Ashish%20Chauhan's%20Java%20Stats&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&langs_count=6&hide=c,cpp,cython&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
   
   <!-- GitHub Streak -->
   <img width="48%" src="https://streak-stats.demolab.com?user=ashishchauhanvasai&stroke=ED8B00&ring=ED8B00&fire=ED8B00&currStreakNum=ffffff&currStreakLabel=ED8B00&sideNums=ffffff&sideLabels=ED8B00&dates=cccccc&background=2C2C2C" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishchauhanvasai&layout=compact&title_color=ED8B00&text_color=ffffff&bg_color=2C2C2C" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Most%20Used%20Language-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
 
