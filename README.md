@@ -32,7 +32,7 @@
 
 ---
 
-## ☕ Java Developer GitHub Stats
+
 
 ## 📊 Most Used Languages
 
