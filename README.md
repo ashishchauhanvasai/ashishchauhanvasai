@@ -10,7 +10,7 @@
 ## 👨‍🏫 About Me  
 - 💼 **Corporate Trainer** at TestYantra Software Solutions  
 - ☕ Passionate about `Java` & `Backend Development`  
-- 🌱 Learning `Node.js`, `Next.js`, and advanced **System Design**  
+- 🌱 Learning **LLD** and advanced **System Design**  
 - 🔭 Built a full **E-Learning Platform** from scratch  
 - 📫 **ashishchauhanvasai@gmail.com**  
 - 🌐 **Portfolio:** Coming Soon  
