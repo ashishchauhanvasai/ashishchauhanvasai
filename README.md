@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🏫 About Me  
-- 💼 **Corporate Trainer** at TestYantra Software Solutions  
+- 💼 **Corporate Trainer** at XYZ Company  
 - ☕ Passionate about `Java` & `Backend Development`  
 - 🌱 Learning **LLD** and advanced **System Design**  
 - 🔭 Built a full **E-Learning Platform** from scratch  
