@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍🏫 About Me  
-- 💼 **Corporate Trainer** at XYZx Company  
+- 💼 **Corporate Trainer** at Destination Career  
 - ☕ Passionate about `Java` & `Backend Development`  
 - 🌱 Learning **LLD** and advanced **System Design**  
 - 🔭 Built a full **E-Learning Platform** from scratch  
